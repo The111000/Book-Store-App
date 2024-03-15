@@ -1,0 +1,5 @@
+h1{
+    color:blue;
+    animation-name: color();
+    animation-duration: 2s;
+}
